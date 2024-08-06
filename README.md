@@ -2,7 +2,7 @@
 
 ## What is this repo
 
-This repository contains all the code used to generate the animations for the video ["Convolutional-Neural-Networks"](https://www.youtube.com/watch?v=8NbXFoVk1mo) on the youtube channel [Deepia](https://www.youtube.com/@Deepia-ls2fo).
+This repository contains all the code used to generate the animations for the video ["CNN Receptive Field"](https://www.youtube.com/watch?v=ip2HYPC_T9Q) on the youtube channel [Deepia](https://www.youtube.com/@Deepia-ls2fo).
 
 All references to the script and the voiceover service have been removed, so you are left with only raw animations.
 
